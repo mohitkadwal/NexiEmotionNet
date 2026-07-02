@@ -63,9 +63,7 @@ Open `RAFDB_updated_Face_83.ipynb` in Google Colab and run all cells.
 ## Pretrained Weights
 
 Trained model weights (`emotion_model_v3.pt`) are available on Google Drive:  
-[Download Pretrained Weights](https://drive.google.com/your-link-here)
-
-*(Replace the link above with your actual Google Drive link after uploading)*
+[Download Pretrained Weights](https://drive.google.com/drive/folders/1zM2QjwZBTCqqsVNH9_6DQpi4F44Hu46o?usp=sharing)
 
 ---
 
