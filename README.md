@@ -34,7 +34,7 @@ dataset/DATASET/test/<emotion_class>/
 
 ## Training
 
-Open `RAFDB_updated_Face_83.ipynb` in Google Colab and run all cells.
+Open `RAFDB_updated_Only_Main_Content.ipynb` in Google Colab and run all cells.
 
 | Hyperparameter | Value |
 |---|---|
@@ -71,8 +71,8 @@ Trained model weights (`emotion_model_v3.pt`) are available on Google Drive:
 
 ```
 NexiEmotionNet/
-├── RAFDB_updated_Face_83.ipynb    # Complete training and evaluation notebook
-└── README.md                       # Project documentation
+├── Open RAFDB_updated_Only_Main_Content.ipynb in Google Colab    # Complete training and evaluation notebook
+└── README.md                                                     # Project documentation
 ```
 
 ---
